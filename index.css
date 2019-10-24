@@ -1,0 +1,35 @@
+body {
+    background-color: #000000ff;
+    width: 100vw;
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+}
+
+#winkie-face {
+    background-color: #00ff00ff;
+    
+}
+
+#label {
+    position: fixed;
+    background-color: red;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #ffffffff;
+    /* padding: 20px; */
+    height: 100px;
+    width: 1000px;
+    font-weight: bolder;
+    text-align: center;
+    bottom: 50px;
+    right: -400px;
+    font-size: 400%;
+    transform: rotateZ(-45deg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body
+
